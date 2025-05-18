@@ -1,3 +1,4 @@
 sudo apt update
 sudo apt install python3-pip espeak
 pip3 install speechrecognition pyttsx3 RPi.GPIO gtts playsound
+sudo apt install portaudio19-dev python3-pyaudio
